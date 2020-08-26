@@ -1,0 +1,79 @@
+*
+{
+padding: 0;
+margin: 0;
+box-shadow: border-box;
+}
+body
+{
+  background-image: url(https://www.straightpath.solutions/wp-content/uploads/2018/03/android-app-development-melbourne-1.png);
+  background-repeat: repeat-x;
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+.menu-bar
+{
+  background :rgb(0, 18, 100);
+  text-align:center;
+}
+.menu-bar ul 
+
+{
+display: inline-flex;
+list-style: none;
+color: #fff;
+
+}
+.menu-bar ul li
+{
+  width: 120px;
+  margin:15px;
+  padding: 15px;
+}
+.menu-bar ul li a
+{
+  text-decoration: none;
+  color: #fff;
+}
+.active, .menu-bar ul li:hover
+{
+background: #11023a;
+border-radius: 3px;
+}
+h1{
+  font-family:'Dancing Script', Pairings;
+  font-weight:normal;
+ font-size: 35px;
+ color:#fff;
+ text-align: center;
+}
+
+p{
+  font-family:'Dancing Script', Pairings;
+  font-weight:normal;
+ font-size: 30px;
+ color: #fff;
+ text-align: center;
+}
+p1{
+  font-family:'Dancing Script', Pairings;
+  font-weight:normal;
+ font-size: 20px;
+ color:#fff;
+ text-align: center;
+}
+dl{
+  font-family:'Dancing Script', Pairings;
+  font-weight:normal;
+ font-size: 20px;
+ color:#fff;
+text-align: center;
+}
+p2{
+  font-family:'Dancing Script', Pairings;
+  font-weight:normal;
+ font-size: 20px;
+ color: #fff;
+ text-align: center;
+}
